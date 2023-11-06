@@ -1,2 +1,2 @@
 import streamlit as st
-st.text("hello")
+st.text_input("吸込風量")
