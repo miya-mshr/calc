@@ -1,0 +1,4 @@
+scipy
+matplotlib
+PyFoam == 2023.7
+chemicals == 1.1.5
